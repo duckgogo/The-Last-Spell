@@ -2,7 +2,7 @@
 
 Singapore Megazone, 2054.
 
-The city no longer touched the ground.
+The city no longer belonged entirely to the ground.
 
 Thousands of autonomous delivery drones drifted between arcologies like schools of fish. Electric vertical aircraft moved silently through layered air lanes, their navigation guided by distributed AI systems that predicted human intent before commands were spoken.
 
@@ -18,7 +18,7 @@ Human civilization had become conversational.
 
 You spoke. Machines obeyed.
 
-Jianxin leaned against the glass wall of Tower 88, thirty floors above the old coastline. Below him, construction workers floated through the air on personal EVTOL rigs while directing swarms of humanoid robots with handheld control rods no larger than chopsticks.
+Jianxin leaned against the glass wall of Tower 88, thirty floors above the old coastline. Below him, construction workers flew between skyscrapers on compact EVTOL rigs while directing swarms of humanoid robots with handheld control rods no larger than chopsticks.
 
 One worker tilted his wrist slightly.
 
@@ -29,23 +29,23 @@ Thirty-seven robots instantly synchronized:
 
 Another worker casually drank coffee while remotely operating mining drones beneath the ocean floor through neural haptic gloves.
 
-Farther away, children played in the sky using anti-gravity boards while AI guardians followed invisibly overhead, predicting collisions before they happened.
+Farther away, teenagers raced personal EVTOL boards through designated sky corridors while AI traffic systems continuously adjusted flight paths to prevent collisions milliseconds in advance.
 
-In the streets below, old delivery vans had disappeared decades ago. Instead, tiny quadruped robots climbed apartment walls carrying groceries, while window-cleaning drones crawled across kilometer-high towers like insects.
+In the streets below, old delivery vans had disappeared decades ago. Instead, quadruped robots climbed apartment walls carrying groceries, while maintenance drones crawled across kilometer-high towers like insects.
 
 Restaurants no longer employed chefs in the traditional sense. Customers simply described flavors:
 
 > “Something warm, nostalgic, slightly spicy, with the texture of handmade noodles.”
 
-An AI culinary engine generated the molecular recipe instantly, and robotic kitchens prepared meals atom by atom.
+An AI culinary engine generated the molecular recipe instantly, and robotic kitchens prepared meals with microscopic precision.
 
 Hospitals had become eerily quiet. Nanomedical systems flowed through patients’ bloodstreams while surgical drones operated with subcellular precision directed by conversational AI.
 
 Military patrols no longer carried rifles.
 
-They carried authorization wands.
+They carried authorization rods.
 
-A spoken sentence could command orbital systems, autonomous tanks, or precision laser satellites.
+A spoken sentence could command orbital reconnaissance systems, autonomous tanks, or precision laser satellites.
 
 It was normal.
 
