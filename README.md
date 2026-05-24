@@ -35,11 +35,9 @@ In the streets below, old delivery vans had disappeared decades ago. Instead, qu
 
 Restaurants no longer employed chefs in the traditional sense. Customers simply described flavors:
 
-> “Something warm, nostalgic, slightly spicy, with the texture of handmade noodles.”
+> “Northern-style hand-pulled noodles. Slightly reduced oil. Extra pepper aroma.”
 
-An AI culinary engine generated the molecular recipe instantly, and robotic kitchens prepared meals with microscopic precision.
-
-Hospitals had become eerily quiet. Nanomedical systems flowed through patients’ bloodstreams while surgical drones operated with subcellular precision directed by conversational AI.
+A humanoid chef nodded quietly as robotic arms and smart stoves behind it instantly came alive.
 
 Military patrols no longer carried rifles.
 
